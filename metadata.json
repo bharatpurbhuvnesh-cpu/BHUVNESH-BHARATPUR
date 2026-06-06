@@ -1,0 +1,6 @@
+{
+  "name": "My Fitness",
+  "description": "Smart running tracker that monitors your vitals, stroller pace, and baby's comfort. Compete in real-time races on virtual running tracks and get AI sports commentary analyzing standard run metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
